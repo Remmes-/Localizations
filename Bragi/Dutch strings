@@ -1,0 +1,33 @@
+"ADD_TO_REACHABILITY" = "Voeg toe aan Reachability";
+
+"ALBUM_ART_CORNER_RADIUS" = "Albumhoes Hoekradius";
+
+"ALBUM_ART_RADIUS_FOOTER_TEXT" = "Niet elke layout heeft een kleine albumhoes, indien wel aanwezig zal dit de hoekradius regelen. \n *Tik op het nummer om een nummer handmatig in te voeren. Decimalen worden nog niet in deze popup ondersteund.";
+
+"ART_OVERLAY_THEME" = "Albumhoes Overlay Thema";
+
+"COLORIZE_CONTROL_CENTER" = "Kleur In Control Center";
+
+"COLORIZE_CONTROL_CENTER_FOOTER" = "Als deze optie is ingeschakeld zal Bragi proberen om de Control Center kleur te matchen met die van de albumhoes. Dit is momenteel experimenteel maar wordt verbeterd met de tijd.";
+
+"CONFIGURATION" = "Configuratie";
+
+"ENABLE" = "Schakel In";
+
+"HIDE_HEART" = "Verberg Hart";
+
+"HIDE_SHARE" = "Verberg Deelfuncties";
+
+"INVERT_FOOTER_TEXT" = "Sommige mensen vinden het fijner om naar het volgende nummer te gaan door naar links te vegen inplaats van naar rechts, en vice versa.";
+
+"INVERT_SWIPE_ACTIONS" = "Keer Veegacties Om.";
+
+"MAKERS" = "Makers";
+
+"SUPPORT" = "Ondersteuning";
+
+"TRANSLATION_CREDITS" = "Vertaal Erkenning";
+
+"USE_CUSTOM_COVER_OVERLAY" = "Gebruik Aangepaste Albumhoes Overlay";
+
+"USE_VIBRANCY_LABELS" = "Gebruik Heldere Labels";
